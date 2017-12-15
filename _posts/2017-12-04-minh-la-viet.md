@@ -1,6 +1,6 @@
 ---
 title: Mình là Việt
-date: 2017-12-14 00:00:00
+date: 2017-12-04 00:00:00
 link: /about
 categories:
 - Blog
