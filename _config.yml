@@ -698,5 +698,9 @@ css: assets/css
 js: assets/js
 images: assets/images
 
+# Style
+sass:
+  style: compressed
+
 # Theme version
 version: 5.1.1
