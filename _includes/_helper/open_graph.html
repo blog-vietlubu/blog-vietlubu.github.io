@@ -41,6 +41,7 @@
         {% assign images = images | push: image %}
       {% endif %}
     {% endfor %}
+    <meta property="og:image" content="{{ site.url }}{{ site.avatar | default: default_avatar ) }}">
   {% endif %}
 
   {% if description %}

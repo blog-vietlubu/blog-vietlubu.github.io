@@ -86,6 +86,9 @@
               </time>
             {% endif %}
           </span>
+          
+          <span class="post-meta-divider">|</span>
+          {% include read_time.html %}
 
           {% if post.categories and post.categories.size > 0 and site.post_meta.categories %}
             <span class="post-category" >
