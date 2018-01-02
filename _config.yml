@@ -9,8 +9,10 @@ subtitle:
 description: Vietlubu Blog
 author: Vietlubu
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: en
+language: vi
 date_format: '%Y-%m-%d'
+# Estimate Reading time
+reading_time: true
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
