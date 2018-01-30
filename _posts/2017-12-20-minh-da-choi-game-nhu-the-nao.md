@@ -2,7 +2,7 @@
 layout: post
 title: Mình đã chơi game như thế nào?
 date: 2017-12-20 00:00:00
-photos: https://static.pexels.com/photos/687811/pexels-photo-687811.jpeg
+photos: /assets/images/posts/minh-da-choi-game-nhu-the-nao/pexels-photo-687811.jpeg
 categories:
 - Games
 - Blogs
@@ -20,7 +20,7 @@ Chơi game ở đây mình chỉ nói đến video game còn mấy trò như tr�
 
 ### Brick game
 
-![Brick game - máy chơi game huyền thoại](https://images-na.ssl-images-amazon.com/images/I/6166vdAFabL._SL1001_.jpg)
+![Brick game - máy chơi game huyền thoại](/assets/images/posts/minh-da-choi-game-nhu-the-nao/brick-game.jpg)
 
 Anh em 8x hay đầu 9x chắc hẳn rất quen thuộc với tình yêu này. Đây là thiết bị được gọi là trò chơi điện tử đầu tiên mà mình từng tiếp cận. Đúng kiểu điện tử, có màn hình, nút bấm và chạy bằng pin. Tuy bên ngoài có ghi là `9999 in 1` nhưng thực là cũng tầm chục game với các biến thể của nó thôi.
 
@@ -30,7 +30,7 @@ Không phải tốn tiền mua game, nhưng lại tốn tiền để mua Pin, h�
 
 ### NES phiên bản fake
 
-![Máy chơi game NES](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/NES-Console-Set.jpg/1200px-NES-Console-Set.jpg)
+![Máy chơi game NES](/assets/images/posts/minh-da-choi-game-nhu-the-nao/nes.jpg)
 
 Vì sao lại **Fake**? vì thời đó nhà mình không có tiền mua máy chơi game này.
 
@@ -42,7 +42,7 @@ Vào những năm `một nghìn chín trăm hồi đó` không có bố mẹ nà
 
 Khi mua đầu về ngoài những thứ được tặng kèm như vài CD ca nhạc thì còn có thêm 1 cặp tay cầm chơi game + 1 đĩa CD 300 trò.
 
-![Đĩa game 300 trò](https://i-xem.mkocdn.com/i.xem.sb/data/photo/2016/10/30/028/thumbnail-oi-tuoi-tho-1477806828.jpg)
+![Đĩa game 300 trò](/assets/images/posts/minh-da-choi-game-nhu-the-nao/nes-face-300games.jpg)
 
 Trong quá trình viết bài và tìm kiếm hình ảnh cũng đủ làm mình rạo rực tuổi thơ. 
 
@@ -52,7 +52,7 @@ Không phải thay Pin như Brick game. Tuy nhiên, việc dùng đĩa quá nhi�
 
 ### PS1 - Tự kiếm tiền chơi game
 
-![Máy chơi game PS1](https://upload.wikimedia.org/wikipedia/commons/3/39/PSX-Console-wController.jpg)
+![Máy chơi game PS1](/assets/images/posts/minh-da-choi-game-nhu-the-nao/ps1.jpg)
 
 Lại trích chút từ [Wiki](https://vi.wikipedia.org/wiki/PlayStation_(console)):
 
@@ -62,15 +62,15 @@ Game PS1 so với NES có rất nhiều khác biệt, về đồ họa, âm than
 
 Ba game mà mình nhớ nhất khi chơi PS1 là:
 
-| ![Game báo động đỏ](http://gameofflinehaychopc.com/wp-content/uploads/2015/05/game-bao-dong-do-KKND-Krossfire.jpg) |
+| ![Game báo động đỏ](/assets/images/posts/minh-da-choi-game-nhu-the-nao/bao-dong-do.jpg) |
 | :--------------------------------------: |
 |              *Báo động đỏ*               |
 
-| ![Game cảnh sát hoàng gia](https://4.bp.blogspot.com/-EbfpHOCg1nU/Wa6zbKsrTiI/AAAAAAAAF1E/gEDfbdZhA148TZxWyLtCoMqDQgiC1JE1QCLcBGAs/s1600/Fighting-Force-canh-sat-dac-nhiem-ps1.jpg) |
+| ![Game cảnh sát hoàng gia](/assets/images/posts/minh-da-choi-game-nhu-the-nao/Fighting-Force-canh-sat-dac-nhiem-ps1.jpg) |
 | :--------------------------------------: |
 |           *Cảnh sát hoàng gia*           |
 
-| ![Game đấu trường đẫm máu](http://gameoffline13.com/wp-content/uploads/2016/08/dau-truong-dam-mau-2.jpg) |
+| ![Game đấu trường đẫm máu](/assets/images/posts/minh-da-choi-game-nhu-the-nao/dau-truong-dam-mau-2.jpg) |
 | :--------------------------------------: |
 |           *Đầu trường đẫm máu*           |
 
@@ -86,13 +86,13 @@ Mình tiếp cận máy tính khá sớm, chắc từ hồi lớp 7. Lúc đó a
 
 #### Game phá màn hình - Stress reducers
 
-![Game phá màn hình](http://img.appnee.com/appnee.com/Desktop-Games_1.png)
+![Game phá màn hình](/assets/images/posts/minh-da-choi-game-nhu-the-nao/pha-man-hinh-stress-reducers.png)
 
 Tên Việt hóa đã nói đúng bản chất của game này. Gameplay đơn giản. Chỉ việc mở lên, chọn vũ khí rồi cứ thế phang lên màn hình. Súng ống các loại cho đến búa, cưa, sơn, còn cả kiến nữa??? Chọn xong thì cứ trút hết lên màn hình thôi, nát rồi thì reset lạ để phá tiếp. Game này chỉ dùng chuột, dễ chơi, làm quen với chuột nhanh chóng. Đứng nói là double-click chứ đến hexa-click mình còn làm được.
 
 #### Mario Teaches Typing
 
-![Game luyện bàn phím bằng mario](https://media1.popsugar-assets.com/files/thumbor/lSwdpVEm3W_iP3xgA7Un9mDX4Jw/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2015/08/19/009/n/1922507/46ba0ebc_super/i/Learning-how-type-Mario-Teaches-Typing-wondering-your-fingers-would-ever-get-used.jpg)
+![Game luyện bàn phím bằng mario](/assets/images/posts/minh-da-choi-game-nhu-the-nao/Learning-how-type-Mario-Teaches-Typing-wondering-your-fingers-would-ever-get-used.jpg)
 
 Luyện chuột xong rồi thì qua bàn phím, trên máy có sẵn game này nên dùng luôn. Lúc mới mở game lên cứ tưởng sắp được chơi mario. Gameplay cũng rất đơn giản, trên lưng con rùa hay viên gạch có chữ cái nào là gõ luôn chữ đó, chú ý ngón tay để gõ cho đúng nữa là được. Gõ chậm thì chết.
 
@@ -111,7 +111,7 @@ Game offline thời đó mình chơi cũng khá nhiều, cảm thấy hãnh di�
 
 ### MuOnline - Bắt đầu đến với game Online
 
-![Mu Online](http://img.gawkerassets.com/img/17fr728rfoicdjpg/original.jpg)
+![Mu Online](/assets/images/posts/minh-da-choi-game-nhu-the-nao/muonline.jpg)
 
 Lớp 8 là lúc mà mình bắt đầu biết đến internet, thời đó dùng mạng **Dial-up**, khoảng 1 năm sau mới có **ADSL** thì phải. Chắc do chổ mình phát triển chậm hơn.
 
@@ -123,7 +123,7 @@ Ngày đó mình còn chơi game khoa học lắm, tuần chơi một lần, l�
 
 Thời đó thì không phải chơi Mu của FPT mà là mấy server Mu Private như là Mu Hà Nội, Mu Hải Phòng,… Vì chơi server private nên chơi dễ lắm, cơ bản cũng vì gameplay của MU rất đơn giản, hệ thống nhiệm vụ rất ít, chủ yếu là cày cấp lấy `reset` (nói mới nhớ cắm chuột là thế nào).
 
-![Cắm chuột MU](http://static.gamehub.vn/img/files/2016/11/19/cam-chuot-mu.jpg)
+![Cắm chuột MU](/assets/images/posts/minh-da-choi-game-nhu-the-nao/cam-chuot-mu.jpg)
 
 Những người đến với MU đều vì lối chơi dễ dàng này, đồ họa rất đẹp so với thời đó (bây giờ vẫn còn đẹp) còn được cái PK sướng tay.
 
@@ -131,7 +131,7 @@ Những người đến với MU đều vì lối chơi dễ dàng này, đồ h
 
 Trước khi đi vào chi tiết, xin nói trước rằng việc bỏ học để chơi game là đều mà mình hối nhận nhất trong cuộc đời.
 
-![Võ lâm truyền kỳ - Sơn hà xã tăc](http://img.zing.vn/upload/jx1/source/News/news/volamtruyenky-04.jpg)
+![Võ lâm truyền kỳ - Sơn hà xã tăc](/assets/images/posts/minh-da-choi-game-nhu-the-nao/volamtruyenky-04.jpg)
 
 Long Tuyền thôn, đây là nơi bắt đầu cuộc hành trình để trở thành một đệ tử **Thiếu Lâm** của mình. Muốn làm đệ tử Thiếu Lâm thì lúc đầu cũng phải ra ngoài thôn giết heo??? Thích thì làm nhiệm vụ học khinh công ở *Võ Sư*. Cấp 10 rồi mới được gặp đệ tử Thiếu Lâm, sau đó đến Thiếu Lâm Tự làm nhiệm vụ nhập môn. Xong rồi thì mới có skill Hàng Long Bát Vũ.
 
@@ -169,7 +169,7 @@ Trích một số thông tin từ Wiki:
 
 Đầu năm lớp 9 là năm 2006 cũng là năm VinaGame (hay giờ được biết với cái tên VNG) ra mắt Ragnarok Online tại thị trường Việt Nam. Sau một khoảng thời gian không chơi Game online, bỗng dưng bị hấp dẫn bởi Ragnarok.
 
-![RO-novice](https://99porings.com/revo-classic/guides/novice.gif)
+![RO-novice](/assets/images/posts/minh-da-choi-game-nhu-the-nao/ro-novice.gif)
 
 Đồ họa của Ragnarok Online (RO) không có gì đặc sắc, nhiều người nhìn vào thì nói nó xấu.
 
@@ -181,7 +181,7 @@ Không như VLTK hay MU Online, mình không bị cuốn sâu vào những trậ
 
 Để nói về Ragnarok chắc cũng phải cần một bài dài như thể này nữa, với đầy yêu thương, tình cảm hơn nữa mới nói hết được.
 
-![Ragnarok online](https://mmoexaminer.com/wp-content/uploads/2017/01/game-ragnarok-online-private-server.jpg)
+![Ragnarok online](/assets/images/posts/minh-da-choi-game-nhu-the-nao/game-ragnarok-online-private-server.jpg)
 
 
 
