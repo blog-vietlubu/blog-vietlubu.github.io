@@ -12,7 +12,7 @@ author: Vietlubu
 language: vi
 date_format: '%Y-%m-%d'
 # Estimate Reading time
-reading_time: true
+reading_time: false
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
@@ -381,7 +381,7 @@ han: false
 
 # Disqus
 disqus:
-  enable: false
+  enable: true
   shortname: vietlubu
   count: true
   # hide comments (visitors need to click to load the comments)
