@@ -4,9 +4,7 @@ title: publicRO - server Ragnarok cho mọi người
 date: 2018-01-22 00:00:00
 photos: /assets/images/posts/publicro-server-ragnarok-cho-moi-nguoi/screenpublicRO000.jpg
 categories:
-- Games
 - publicRO
-- rAthena
 tags:
 - games
 - publicRO
@@ -112,7 +110,7 @@ Trong đó có `_M` là xác định gới tính nam `_F` là nữ. Những lầ
 
 #### 5. Video start publicRO
 
-Mình có làm một video ngắn về việc khởi động `publicRO` từ rAsql cho đến server. Làm theo 3 bước (2-3-4) ở trên thôi - 1 phút thôi:
+Mình có làm một video ngắn về việc khởi động `publicRO` từ rAsql cho đến server. Làm theo 3 bước (2-3-4) ở trên - 1 phút thôi:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Thqs6xHMcrQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -141,7 +139,7 @@ Nếu có vấn đề?
 Nếu gặp vấn đề hãy để lại câu hỏi ở:
 
 - Comment ngay dưới blog này. Hoặc:
-- Facebook Group (chưa có member nào :D): <a href="https://www.facebook.com/groups/ragnarokviet/" target="_blank">https://www.facebook.com/groups/ragnarokviet/</a> - Mình sẽ post những quicktip, hướng dẫn nhanh vào group facebook.
-- Discord Chat (chưa có member nào :D): <a href="https://discord.gg/TNDA2S2" target="_blank">https://discord.gg/TNDA2S2</a> - Kênh chat thảo luận tất cả mọi thứ về Ragnarok
-
+- Facebook Page (chưa có like nào :D): <a href="https://www.facebook.com/publicRO/" target="_blank">https://www.facebook.com/publicRO/</a> - Mình sẽ post những quicktip, hướng dẫn nhanh vào page facebook.
+- Discord Chat (chưa có member nào :D): <a href="https://discord.gg/TNDA2S2" target="_blank">https://discord.gg/TNDA2S2</a> - Kênh chat thảo luận tất cả mọi thứ về Ragnarok, kể cả BOT
+- Hay Group Facebook (có thể sẽ không dùng vì đã có Discord): <a href="https://www.facebook.com/groups/ragnarokviet/" target="_blank">https://www.facebook.com/groups/ragnarokviet/</a>
 
