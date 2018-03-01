@@ -68,7 +68,7 @@ Cài đặt
 #### 1. Download
 - [publicRO server](https://github.com/publicRO/server): Link tải trực tiếp: https://github.com/publicRO/server/archive/master.zip
 - [rAsql](https://github.com/publicRO/rAsql): Link tải trực tiếp: https://github.com/publicRO/rAsql/archive/master.zip 
-- publicRO client: [Full client](https://drive.google.com/open?id=1kkbmBTka_4x-s3iX4HL-W8ocgs5sciCO). Hoặc [Lite client](https://github.com/publicRO/lite-client). Các bạn nên tải bản full.
+- publicRO client: [Full client](https://drive.google.com/open?id=1GW7b8wvF9OvN2g_a_HANDo3WinkmRjaw). Hoặc [Lite client](https://github.com/publicRO/lite-client). Các bạn nên tải bản full.
 
 Note: Chút lưu ý về lite-client, bạn có thể đọc ở [đây](https://github.com/publicRO/lite-client/blob/master/README.md). Dưới đây mình sẽ tóm tắt lại lưu ý.
 > Với Lite-client, hiện tại mình đã thử với DarksideRO, TalonRO và NovaRO thì chỉ có một mình [DarksideRO](http://panel.darkside-ro.com/) chạy được. Nên mình khuyên các bạn nên tải bản [Full client](https://drive.google.com/open?id=1kkbmBTka_4x-s3iX4HL-W8ocgs5sciCO) hoặc tải [DarksideRO](http://panel.darkside-ro.com/) và bản lite-client. Hiện tại mình đang chơi DarksideRO và TalonRO.
