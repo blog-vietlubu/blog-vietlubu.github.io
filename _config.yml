@@ -701,8 +701,8 @@ js: assets/js
 images: assets/images
 
 # Style
-sass:
-  style: compressed
+# sass:
+#   style: compressed
 
 # Theme version
 version: 5.1.1
