@@ -86,7 +86,7 @@
               </time>
             {% endif %}
           </span>
-          
+
           {% if site.reading_time %}
               <span class="post-meta-divider">|</span>
               {% include read_time.html %}
@@ -112,7 +112,7 @@
                 </span>
 
                 {% assign cat_length = post.categories.size %}
-                {% if cat_length > 1 and loop.index != cat_length %}
+                {% if cat_length > 1 and forloop.index != cat_length %}
                   {{ __.symbol.comma }}
                 {% endif %}
               {% endfor %}
