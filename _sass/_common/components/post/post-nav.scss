@@ -42,16 +42,23 @@
 }
 
 .post-nav-next {
-  a { padding-left: 15px; }
-}
-
-.post-nav-prev {
-  text-align: right;
-
-  a { padding-right: 15px; }
+  a {
+    padding-right: 15px;
+    float: right;
+  }
 
   .fa {
     right: 0;
     left: auto;
   }
+}
+
+.post-nav-prev {
+  text-align: right;
+
+  a {
+    padding-left: 15px;
+    float: left;
+  }
+
 }
