@@ -27,7 +27,7 @@ Việc ủng hộ cũng rất đơn giản, chỉ là nhập tên, email và có
 
 
 
-Sau khi hoàn tất sẽ có một email cảm ơn gửi đến bạn. Và tênc ủa bạn sẽ  được show lên ở tab **Most Recent**
+Sau khi hoàn tất sẽ có một email cảm ơn gửi đến bạn. Và tên của bạn sẽ  được show lên ở tab **Most Recent**
 
 ![Most Recent](/assets/images/posts/2019-10-30-chung-tay-trong-20-trieu-cay/most-recent.png)
 
