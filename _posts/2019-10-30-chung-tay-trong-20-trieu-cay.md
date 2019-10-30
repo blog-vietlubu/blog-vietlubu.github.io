@@ -9,7 +9,7 @@ tags:
 - blog
 - teamtrees
 ---
-Sáng nay ngồi lướt Youtube mới thấy video mới của [Alan Becker](https://www.youtube.com/channel/UCbKWv2x9t6u8yZoB3KcPtnw) nói về việc gây quỹ chung tay trồng 20 triệu cây xanh vào ngày 1/1/2020. Thử vào web site [https://www.teamtrees.org/](https://www.teamtrees.org/) đọc thông tin thì thấy hiện tại đã được hơn 7 triệu cây. Tính từ lúc bắt đầu là tháng 5/2019
+Sáng nay ngồi lướt Youtube mới thấy video mới của [Alan Becker](https://www.youtube.com/watch?v=mlLl8eFJgkU) nói về việc gây quỹ chung tay trồng 20 triệu cây xanh vào ngày 1/1/2020. Thử vào web site [https://www.teamtrees.org/](https://www.teamtrees.org/) đọc thông tin thì thấy hiện tại đã được hơn 7 triệu cây. Tính từ lúc bắt đầu là tháng 5/2019
 
 Với việc ủng hộ `$1` đổi lấy 1 cây thì số tiền ủng hộ tiện tại đã lên tới hơn 7 triệu USD.
 
