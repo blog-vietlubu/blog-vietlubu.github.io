@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cùng chung tay trồng 20 triệu cây cho thế giới
+title: Cùng chung tay trồng 20 triệu cây xanh
 date: 2019-10-30 08:00:00 0700
 photos: /assets/images/posts/2019-10-30-chung-tay-trong-20-trieu-cay/current-trees.png
 categories:
