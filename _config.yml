@@ -456,8 +456,8 @@ duoshuo_info:
 facebook_sdk:
   enable: true
   app_id: 527010660988877
-  fb_admin:     #<user_id>
-  like_button:  #true
+  fb_admin: "100000157789467,102550464770551"
+  like_button: false
   webmaster: true
 
 # Facebook comments plugin
