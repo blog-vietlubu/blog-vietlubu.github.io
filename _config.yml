@@ -16,7 +16,7 @@ reading_time: false
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url: https://vietlubu.github.io
+url: https://blog.vietlubu.com
 baseurl:
 permalink: pretty
 
