@@ -18,7 +18,7 @@ reading_time: false
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
 url: https://blog.vietlubu.com
 baseurl:
-permalink: pretty
+permalink: none
 
 # Pagination
 paginate: 10
