@@ -23,8 +23,8 @@ Nhìn sơ qua thì sẽ thấy một số món sau.
 1. Bàn làm việc. Tất nhiên rồi, review bàn làm việc mà. Bàn mua ở Hòa Phát giá 1tr6, mua cuối năm 2017. Bàn dài 1m2 và có 3 ngăn kéo để đồ. Hơi ngắn nhưng hiện tại đang ổn với mình.
 2. Ghế ngồi Xuân Hòa. Giá 2tr4. Mua hồi cuối tháng 3/2020. Lúc đầu định mua cái ghế Hòa Phát cơ, mà không hiểu sao lúc mua chọn đúng cái này. Nó có cái kê đầu nữa, mà tháo rồi. Ghế hơi lớn nhưng ngồi cũng khá ổn.
 3. Màn hình Asus VX229H 21.5". Mua ngày 27/07/2016 giá 3.350.000. Hồi đó mình chọn màn hình này là vì nó có tích hợp sẵn loa ngay trên màn hình, thấy tiện nên mua luôn. Giờ nhìn lại thấy màn hình hơi nhỏ, sau này dư giả chắc lên đời con mới lớn hơn chút 😌
-4. MacBook Pro (Retina, 13-inch, Early 2015). Con này vừa mua hồi cuối tháng 3 luôn. Trong suốt khoảng thời gian làm việc tại công ty cũ, được cấp cho một con như vậy. Thấy dùng rất ổn, nên khi bắt đầu làm việc ở nhà cũng chọn lại em nó luôn. Vừa để tiết kiệm chi phí nữa. Mình mua hàng cũ 9x% giá 19tr5. Sơ qua cầu hình: RAM 8GB, SSD 256, i5 2.9 GHz.
-5. Con desktop cũ lâu lâu dùng chống cháy hoặc chạy những app cần dùng Windows. Mình Build giá 10tr, Cầu hình xoàng. RAM 8GB, i3, SSD 128, HDD 1T. Mua tháng 7/2017.
+4. MacBook Pro (Retina, 13-inch, Early 2015). Con này vừa mua hồi cuối tháng 3 luôn. Trong suốt khoảng thời gian làm việc tại công ty cũ, được cấp cho một con như vậy. Thấy dùng rất ổn, nên khi bắt đầu làm việc ở nhà cũng chọn lại em nó luôn. Vừa để tiết kiệm chi phí nữa. Mình mua hàng cũ 9x% giá 19tr5. Sơ qua cấu hình: RAM 8GB, SSD 256, i5 2.9 GHz.
+5. Con desktop cũ lâu lâu dùng chống cháy hoặc chạy những app cần dùng Windows. Mình Build giá 10tr, cấu hình xoàng. RAM 8GB, i3, SSD 128, HDD 1T. Mua tháng 7/2017.
 
 #### 2. Cận cảnh Macbook
 
