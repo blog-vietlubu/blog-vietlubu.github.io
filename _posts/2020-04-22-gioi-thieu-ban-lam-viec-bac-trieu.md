@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Giới thiệu bàn làm việc bạc triệu
-date: 2020-04-19 16:00:00 0700
+date: 2020-04-22 09:30:00 0700
 photos: /assets/images/posts/2020-04-22-gioi-thieu-ban-lam-viec-bac-trieu/tren-xuong.jpg
 categories:
 - Lifestyle
