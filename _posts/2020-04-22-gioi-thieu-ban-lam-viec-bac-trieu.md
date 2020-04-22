@@ -66,6 +66,7 @@ Nhìn sơ qua thì sẽ thấy một số món sau.
 2. Đèn bàn Remax RL-E180, giá 170k, hình như mình mua cùng đợt với màn hình. Đèn có 1 màu trắng, 3 mức sáng. Dùng để chống cháy thôi. Tác dụng lớn nhất của nó từ trước đến giờ là hỗ trợ nhà mình ăn cơm mỗi khi mất điện. -> Không có trong hình vì đang để phòng khác rồi
 3. Ống bút? Đó là khay hấp đồ ăn trong máy làm sữa hạt của nhà mình, không dùng nên mình đưa lên để ít đồ lặt vặt. Khỏi ghi giá nhé, không lẽ ghi luôn giá cái máy làm sữa RANBEM 769S là 1tr2 mua ngày 06/04/2019 😬
 4. Bút Vẽ Kỹ Thuật Marvy ngòi 0.3mm giá 17k. Mình có 4 cây. Review nhanh, viết sướng.
+5. Ly nước. Giá 60k. Mua đâu đó hồi 2016
 
 #### Tổng kết giá
 
@@ -93,7 +94,8 @@ Nhìn sơ qua thì sẽ thấy một số món sau.
 | 20   | Hủ thủy tinh Ocean                        | 60,000     | 02/2020       |
 | 21   | Đèn bàn Remax RL-E180                     | 170,000    | 08/2018       |
 | 22   | Bút Vẽ Kỹ Thuật Marvy x 4                 | 68,000     | 2019          |
-|      | **Tổng cộng**                             | 58,511,500 | 2016-2020     |
+| 23   | Ly nước                                   | 60,000     | 2016          |
+|      | **Tổng cộng**                             | 58,571,500 | 2016-2020     |
 
 #### Túm lại
 
