@@ -71,28 +71,28 @@ Nhìn sơ qua thì sẽ thấy một số món sau.
 
 | No.  | Sản phẩm                                  | Giá        | Ngày mua      |
 | ---- | ----------------------------------------- | ---------- | ------------- |
-|      | Bàn Hòa Phát                              | 1,600,000  | Cuối năm 2017 |
-|      | Ghế ngồi văn phòng                        | 2,400,000  | 3/2020        |
-|      | Màn hình Asus VX229H 21.5"                | 3,350,000  | 27/07/2016    |
-|      | MacBook Pro (Retina, 13-inch, Early 2015) | 19,500,000 | 26/03/2020    |
-|      | Desktop Windows                           | 10,000,000 | 7/2017        |
-|      | Chân đế laptop                            | 179,000    | 20/04/2020    |
-|      | Ổ cắm điện Xiaomi                         | 220,000    | 7/2016        |
-|      | Nam châm                                  | 1000       | ???           |
-|      | Logitech M585 Silent                      | 500,000    | 8/2019        |
-|      | Bàn phím Anne Pro 2                       | 1,700,000  | 4/2019        |
-|      | Cáp kết nối nam châm Type C               | 80,000     | 26/06/2019    |
-|      | Pad chuột                                 | 240,000    | 02/2019       |
-|      | Sổ tay                                    | 60,000     | 2018          |
-|      | Chân đế màn hình                          | 150,000    | 20/04/2020    |
-|      | Thuốc nhỏ mắt Eyemiru                     | 70,000     | 03/2020       |
-|      | iPhone 7                                  | 11,000,000 | 06/2018       |
-|      | Nintendo Switch v2 Gray                   | 7,461,500  | 09/03/2020    |
-|      | Airpod                                    | 3,800,000  | 1/2019        |
-|      | Thẻ nhớ Samsung 128GB                     | 480,000    | 1/2020        |
-|      | Hủ thủy tinh Ocean                        | 60,000     | 02/2020       |
-|      | Đèn bàn Remax RL-E180                     | 170,000    | 08/2018       |
-|      | Bút Vẽ Kỹ Thuật Marvy x 4                 | 68,000     | 2019          |
+| 1    | Bàn Hòa Phát                              | 1,600,000  | Cuối năm 2017 |
+| 2    | Ghế ngồi văn phòng                        | 2,400,000  | 3/2020        |
+| 3    | Màn hình Asus VX229H 21.5"                | 3,350,000  | 27/07/2016    |
+| 4    | MacBook Pro (Retina, 13-inch, Early 2015) | 19,500,000 | 26/03/2020    |
+| 5    | Desktop Windows                           | 10,000,000 | 7/2017        |
+| 6    | Chân đế laptop                            | 179,000    | 20/04/2020    |
+| 7    | Ổ cắm điện Xiaomi                         | 220,000    | 7/2016        |
+| 8    | Nam châm                                  | 1000       | ???           |
+| 9    | Logitech M585 Silent                      | 500,000    | 8/2019        |
+| 10   | Bàn phím Anne Pro 2                       | 1,700,000  | 4/2019        |
+| 11   | Cáp kết nối nam châm Type C               | 80,000     | 26/06/2019    |
+| 12   | Pad chuột                                 | 240,000    | 02/2019       |
+| 13   | Sổ tay                                    | 60,000     | 2018          |
+| 14   | Chân đế màn hình                          | 150,000    | 20/04/2020    |
+| 15   | Thuốc nhỏ mắt Eyemiru                     | 70,000     | 03/2020       |
+| 16   | iPhone 7                                  | 11,000,000 | 06/2018       |
+| 17   | Nintendo Switch v2 Gray                   | 7,461,500  | 09/03/2020    |
+| 18   | Airpod                                    | 3,800,000  | 1/2019        |
+| 19   | Thẻ nhớ Samsung 128GB                     | 480,000    | 1/2020        |
+| 20   | Hủ thủy tinh Ocean                        | 60,000     | 02/2020       |
+| 21   | Đèn bàn Remax RL-E180                     | 170,000    | 08/2018       |
+| 22   | Bút Vẽ Kỹ Thuật Marvy x 4                 | 68,000     | 2019          |
 |      | **Tổng cộng**                             | 58,511,500 | 2016-2020     |
 
 #### Túm lại
